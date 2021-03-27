@@ -24,6 +24,6 @@ public class StudentController {
                 "rajat@springboot.com",
                 LocalDate.of(1998, Month.JUNE, 16),
                 23
-        ));
+        )); 
     }
 }
